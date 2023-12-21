@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_mlgalto",
-    "path": "sprites/spr_mlgalto/spr_mlgalto.yy",
+    "name": "spr_mlgbaixo",
+    "path": "sprites/spr_mlgbaixo/spr_mlgbaixo.yy",
   },
   "spriteMaskId": null,
   "visible": true,
