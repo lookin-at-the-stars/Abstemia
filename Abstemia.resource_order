@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_conversa3","order":1,"path":"objects/obj_conversa3/obj_conversa3.yy",},
+  ],
 }

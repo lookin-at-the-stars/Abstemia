@@ -42,6 +42,7 @@
     {"id":{"name":"obj_telatimes","path":"objects/obj_telatimes/obj_telatimes.yy",},},
     {"id":{"name":"spr_eduatencaoandandoesq","path":"sprites/spr_eduatencaoandandoesq/spr_eduatencaoandandoesq.yy",},},
     {"id":{"name":"spr_willianb","path":"sprites/spr_willianb/spr_willianb.yy",},},
+    {"id":{"name":"obj_conversa3","path":"objects/obj_conversa3/obj_conversa3.yy",},},
     {"id":{"name":"spr_tv","path":"sprites/spr_tv/spr_tv.yy",},},
     {"id":{"name":"spr_sala_dia","path":"sprites/spr_sala_dia/spr_sala_dia.yy",},},
     {"id":{"name":"spr_eduportaandandodir","path":"sprites/spr_eduportaandandodir/spr_eduportaandandodir.yy",},},

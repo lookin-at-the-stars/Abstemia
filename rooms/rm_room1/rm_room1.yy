@@ -62,6 +62,7 @@
     {"name":"inst_29F4825F","path":"rooms/rm_room1/rm_room1.yy",},
     {"name":"inst_3815EF1B","path":"rooms/rm_room1/rm_room1.yy",},
     {"name":"inst_1991199B","path":"rooms/rm_room1/rm_room1.yy",},
+    {"name":"inst_67B3DFE0","path":"rooms/rm_room1/rm_room1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -105,6 +106,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_29F4825F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_mlgup","path":"objects/obj_mlgup/obj_mlgup.yy",},"properties":[],"rotation":0.0,"scaleX":0.1875,"scaleY":0.234375,"x":384.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3815EF1B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_mlgvoltar","path":"objects/obj_mlgvoltar/obj_mlgvoltar.yy",},"properties":[],"rotation":0.0,"scaleX":0.21875,"scaleY":0.390625,"x":384.0,"y":180.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1991199B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_conversa2","path":"objects/obj_conversa2/obj_conversa2.yy",},"properties":[],"rotation":0.0,"scaleX":2.890625,"scaleY":0.578125,"x":433.0,"y":196.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_67B3DFE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_conversa3","path":"objects/obj_conversa3/obj_conversa3.yy",},"properties":[],"rotation":0.0,"scaleX":2.859375,"scaleY":0.640625,"x":436.0,"y":246.0,},
       ],"layers":[],"properties":[
         {"name":"g_RGBNoiseIntensity","type":0,"value":"0.1",},
         {"name":"g_RGBNoiseAnimation","type":0,"value":"0.55",},
