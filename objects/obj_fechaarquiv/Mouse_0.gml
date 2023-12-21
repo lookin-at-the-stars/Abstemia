@@ -1,0 +1,2 @@
+instance_deactivate_object(obj_exploradorarquivos);
+instance_deactivate_object(self);

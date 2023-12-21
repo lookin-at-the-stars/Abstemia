@@ -1,0 +1,2 @@
+instance_activate_object(obj_exploradorarquivos);
+instance_activate_object(obj_fechaarquiv);

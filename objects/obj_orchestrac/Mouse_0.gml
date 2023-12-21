@@ -1,0 +1,7 @@
+instance_activate_object(obj_orchestra);
+instance_activate_object(obj_fechaorchestra);
+instance_activate_object(obj_orchestrag2);
+instance_activate_object(obj_orchestraytb);
+instance_activate_object(obj_orchestrahist);
+instance_activate_object(obj_orchestracaveira);
+

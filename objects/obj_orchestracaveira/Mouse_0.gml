@@ -1,0 +1,1 @@
+obj_orchestra.sprite_index = spr_caverudo;
