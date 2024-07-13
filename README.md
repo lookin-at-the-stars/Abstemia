@@ -6,7 +6,7 @@ Bem-vindo ao Abstêmia, uma experiência de terror psicológico onde você explo
 
 **Abstêmia** foi desenvolvido em apenas 7 dias para uma gamejam, resultando em uma experiência compacta e intensa de horror.
 
-- **Gênero:** Terror psicológico
+- **Gênero:** Terror psicológico e Suspense
 - **Plataforma:** PC
 
 ## Características Principais
@@ -17,11 +17,11 @@ Bem-vindo ao Abstêmia, uma experiência de terror psicológico onde você explo
 
 ## Screenshots
 
-Insira imagens de gameplay e ambientes do jogo aqui:
-
-![Screenshot 1](caminho/para/sua/imagem1.png)
-![Screenshot 2](caminho/para/sua/imagem2.png)
-![Screenshot 3](caminho/para/sua/imagem3.png)
+![Screenshot 1](imagens/1.png)
+![Screenshot 2](imagens/2.png)
+![Screenshot 3](imagens/3.png)
+![Screenshot 4](imagens/4.png)
+![Screenshot 5](imagens/5.png)
 
 ## Créditos
 
@@ -43,7 +43,7 @@ Todos os direitos das artes e músicas são reservados aos seus respectivos cria
 
 ## Instalação
 
-1. Faça o download do arquivo de instalação do jogo.
+1. Faça o download do arquivo de instalação do jogo no site [https://deadsz.itch.io/abstemia].
 2. Execute o arquivo e siga as instruções na tela para instalar o jogo.
 3. Após a instalação, execute o jogo a partir do atalho criado na área de trabalho.
 
